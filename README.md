@@ -48,7 +48,7 @@
 ## The desktop support technician addresses the ticket, fixes the issue and then closes it, as shown above.
 
 # Caller #2
-## The help desk support addresses the caller and creates his/her help desk ticket, as shown below in the next 4 examples.
+## The help desk support addresses the caller who is waiting for the installation of a new PC and creates his/her help desk ticket, as shown below in the next 4 examples.
 ![alt text](https://i.imgur.com/dqrVs0u.png)
 
 
