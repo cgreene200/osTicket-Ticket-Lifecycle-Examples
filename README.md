@@ -21,7 +21,7 @@
 * Issuing the ticket to a technician
 * Updating and closing the ticket
 
-## To start the process, click on the URLto login to your account.
+## To start the process, click on the URL to login to your account.
 
 ![alt text](https://i.imgur.com/hPQybY3.png)
 
